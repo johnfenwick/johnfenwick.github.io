@@ -1,5 +1,8 @@
-[About Me](about.md)
-[Portfolio](portfolio.md)
+## Hi, my name is John.
+
+[About Me](/about.md)
+
+[Portfolio](/portfolio.md)
 
 <!-- ## Welcome to GitHub Pages
 
